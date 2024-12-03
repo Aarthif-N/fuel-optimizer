@@ -23,7 +23,7 @@ This API calculates the optimal route between a start and finish location within
 - **Method**: GET
 - **Parameters**:
 - `start`: Starting location (e.g., "New York, NY").
-- `finish`: Destination location (e.g., "Chicago, IL").
+- `finish`: Destination location (e.g., "LosAngeles, IL").
 
 ## Example Response
 ```json
