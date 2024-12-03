@@ -1,0 +1,8 @@
+django=3.2.23
+django_rest_framework
+pandas
+requests
+geopy
+numpy
+scipy
+polyline
